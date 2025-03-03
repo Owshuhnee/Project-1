@@ -9,7 +9,7 @@ else Change the button to Red, Label to "Insufficient resources"
 Also, change to the button to default "Submit" whenever an input is changed in the dropdown selection
 
 value1 and value2 to is in Dropdown or Select format
-  Option 1 - Select
-  Option 2 - 4
-  Option 3 - 8
-  Option 4 - 12
+Option 1 - Select
+Option 2 - 4
+Option 3 - 8
+Option 4 - 12
